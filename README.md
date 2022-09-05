@@ -7,3 +7,6 @@
 
 This is just a copy of the project. If you want to see the actual project repository in order to see my git commits for it,
 the link for that is https://github.com/bjones40/ASCII-RPG .
+
+
+All required source code for this to run should be available here. This project contains a Makefile as well.
